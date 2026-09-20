@@ -1,0 +1,32 @@
+Dictionary Data License — Creative Commons Attribution-ShareAlike 4.0 International
+(CC-BY-SA 4.0)
+
+This license applies to the DICTIONARY DATA produced by the Dict project — the
+generated artifacts and tracked data files, namely:
+
+  - dict.sqlite               (the compiled dictionary database)
+  - dict.pack / *.dictpack    (the compact query pack)
+  - JSON / JSONL exports       (dict-build export)
+  - translations.jsonl         (machine-translated Italian definitions)
+  - etymologies.jsonl          (machine-translated Italian etymologies)
+
+The data is a derivative of openly-licensed sources (primarily Wiktionary, which is
+CC-BY-SA). Under CC-BY-SA's ShareAlike term, the compiled data as a whole is made
+available under:
+
+  Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
+    Human-readable deed: https://creativecommons.org/licenses/by-sa/4.0/
+    Full legal code:     https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+You are free to share and adapt the data, including for commercial purposes,
+provided that you:
+  (a) give appropriate credit, provide a link to the license, and indicate if
+      changes were made — see ATTRIBUTION.md for the required per-source credits and
+      the statement of modifications; and
+  (b) license your adaptations under CC-BY-SA 4.0 (or a compatible later version),
+      and apply no additional legal or technological restrictions.
+
+Providing the license URI above satisfies CC-BY-SA 4.0 § 3(a)(1)(F).
+
+This data license is SEPARATE from and independent of the source-code license
+(see LICENSE). The source code is not covered by CC-BY-SA.
